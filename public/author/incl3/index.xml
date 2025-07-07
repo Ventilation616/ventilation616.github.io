@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>InCl3 | 龙家将</title>
+    <link>https://example.com/author/incl3/</link>
+      <atom:link href="https://example.com/author/incl3/index.xml" rel="self" type="application/rss+xml" />
+    <description>InCl3</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
+    <image>
+      <url>https://example.com/author/incl3/avatar_hu_f6734d91ad1310e3.jpg</url>
+      <title>InCl3</title>
+      <link>https://example.com/author/incl3/</link>
+    </image>
+    
+  </channel>
+</rss>

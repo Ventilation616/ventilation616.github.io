@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>积极漾漾 | 龙家将</title>
+    <link>https://example.com/author/%E7%A7%AF%E6%9E%81%E6%BC%BE%E6%BC%BE/</link>
+      <atom:link href="https://example.com/author/%E7%A7%AF%E6%9E%81%E6%BC%BE%E6%BC%BE/index.xml" rel="self" type="application/rss+xml" />
+    <description>积极漾漾</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
+    <image>
+      <url>https://example.com/author/%E7%A7%AF%E6%9E%81%E6%BC%BE%E6%BC%BE/avatar_hu_e129ad9b098b69ca.jpg</url>
+      <title>积极漾漾</title>
+      <link>https://example.com/author/%E7%A7%AF%E6%9E%81%E6%BC%BE%E6%BC%BE/</link>
+    </image>
+    
+  </channel>
+</rss>
