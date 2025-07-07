@@ -1,14 +1,25 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Pummel Party
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+《Pummel Party》是一款支持 4-8 位玩家的在线和本地多人派对游戏。Pummel 好友或 AI 可以在图板模式下使用各种各样荒唐爆笑的物品，在独特的迷你游戏合集中相互竞争，摧毁友谊。
 
 <!--more-->
+在线和本地多人游戏
+随心所欲地游戏。《Pummel Party》允许 1 到 8 位玩家彼此竞争，既可以在线也可以在本地的同一块屏幕上。无论是在线还是当面，这款游戏都充满了友尽的乐趣。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+图板模式
+- 只能有一个赢家，你知道非你莫属！战斗通过危险的地形，获取和使用大量武器和物品，以确保战胜你的好友。
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+物品
+- 战争已经打响！使用一系列荒唐的武器和物品来夺取胜利。从简单的“拳套”到爆笑的“遥控茄子”，《Pummel Party》中的物品会带来许多搞笑和愤怒的时刻。要粉碎你朋友赢得胜利的愿望，从未如此简单、让人满意。
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+迷你游戏
+- 从简单的怀旧乐趣到独特而先进的《Pummel Party》，它包含许多激动人心的迷你游戏。在“雪山旋转”中，将你的好友打下深渊，在“沙里淘金”中进行三维挖掘以首先找到宝藏，并确保在“击鼓传弹”中当炸弹传到你手中时没有爆炸。
+
+迷你游戏模式
+- 只想立即开玩？《Pummel Party》包含迷你游戏模式，让你可以直接开始游戏！
+
+机器人
+- 你和好友已经友尽，还是队伍中缺人？《Pummel Party》集成了完整的机器人功能，你仍然可以跟任意数量的真实玩家一起游玩或练习。

@@ -6,20 +6,25 @@ type: landing
 
 sections:
   - block: hero
+    design:
+      background:
+        image:
+          filename: sanqing.jpg
     content:
       title: |
-        Wowchemy
-        Research Group
+        龙家将
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+         **龙家将** <br>
+         于2020年11月28日**安义中学22届高二（14）班**一群不学无术的熬列分子，为了联机打LOLM创建
+    
   
   - block: collection
     content:
-      title: Latest News
+      title: 最近在玩
       subtitle:
       text:
       count: 5
@@ -74,7 +79,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="加入我们→" %}}
     design:
       columns: '1'
 ---

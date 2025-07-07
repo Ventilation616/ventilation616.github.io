@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title:  最近在玩的游戲
 
 # Listing view
 view: compact

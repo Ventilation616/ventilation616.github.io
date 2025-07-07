@@ -1,16 +1,42 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: MineCraft Fantasy Realm
 date: 2020-12-02
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+我的世界Fantasy Realm（幻想領域）整合包
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Fantasy Realm是一个注重质量的RPG冒险和探索整合包！
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+整合包不需要Optifine：在视频设置中添加光影 > 光影包 > 添加你的光影。
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+特点
+
+ - 4个全新的维度和100+主世界中的全新生物群系。
+
+ - 300+任务！
+
+ - RPG属性[超过2×2合成]和使用Tetra的深度工具定制！大量新boss和小boss以及100+新生物。
+
+ - 200+地下城和结构可供征服。
+
+ - 通过完成挑战可定制背包。
+
+ - 收集 12 个新的眼睛以进入重制后的末地！
+
+ - 新的大而丰富的洞穴，各种新的危险和探索！
+
+ - 魔法模组，如禁忌与奥秘，幻梦等等！
+
+ - 全面修改的GUI和自定义材质。
+
+ - 旅行地图[按“M”打开]
+
+ - 用模拟殖民地建造一个繁华的幻想王国！
+
+ - 200+ 模组。
+
+ - 建议分配8GB内存。
