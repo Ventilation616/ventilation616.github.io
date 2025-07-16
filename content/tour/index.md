@@ -9,7 +9,8 @@ sections:
     content:
       slides:
       - title: 👋 欢迎访问longjj团队博客
-        content: 此网站仅供学习和整活...
+        content: 此网站仅供学习和整活<br><a href="http://longjj.top:8096" target="_blank">龙家将影音城</a>
+
         align: center
         background:
           image:
