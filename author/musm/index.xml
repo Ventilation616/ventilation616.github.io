@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Musm | 龙家将</title>
-    <link>http://localhost:1313/author/musm/</link>
-      <atom:link href="http://localhost:1313/author/musm/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ventilation616.github.io/author/musm/</link>
+      <atom:link href="https://ventilation616.github.io/author/musm/index.xml" rel="self" type="application/rss+xml" />
     <description>Musm</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>http://localhost:1313/author/musm/avatar_hu_fbb0a3a4c59ec258.jpg</url>
+      <url>https://ventilation616.github.io/author/musm/avatar_hu_fbb0a3a4c59ec258.jpg</url>
       <title>Musm</title>
-      <link>http://localhost:1313/author/musm/</link>
+      <link>https://ventilation616.github.io/author/musm/</link>
     </image>
     
   </channel>

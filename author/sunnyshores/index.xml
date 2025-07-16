@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SunnyShores | 龙家将</title>
-    <link>http://localhost:1313/author/sunnyshores/</link>
-      <atom:link href="http://localhost:1313/author/sunnyshores/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ventilation616.github.io/author/sunnyshores/</link>
+      <atom:link href="https://ventilation616.github.io/author/sunnyshores/index.xml" rel="self" type="application/rss+xml" />
     <description>SunnyShores</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>http://localhost:1313/author/sunnyshores/avatar_hu_9018b97ae2659eff.jpg</url>
+      <url>https://ventilation616.github.io/author/sunnyshores/avatar_hu_9018b97ae2659eff.jpg</url>
       <title>SunnyShores</title>
-      <link>http://localhost:1313/author/sunnyshores/</link>
+      <link>https://ventilation616.github.io/author/sunnyshores/</link>
     </image>
     
   </channel>

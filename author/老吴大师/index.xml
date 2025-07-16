@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>老吴大师 | 龙家将</title>
-    <link>http://localhost:1313/author/%E8%80%81%E5%90%B4%E5%A4%A7%E5%B8%88/</link>
-      <atom:link href="http://localhost:1313/author/%E8%80%81%E5%90%B4%E5%A4%A7%E5%B8%88/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ventilation616.github.io/author/%E8%80%81%E5%90%B4%E5%A4%A7%E5%B8%88/</link>
+      <atom:link href="https://ventilation616.github.io/author/%E8%80%81%E5%90%B4%E5%A4%A7%E5%B8%88/index.xml" rel="self" type="application/rss+xml" />
     <description>老吴大师</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>http://localhost:1313/author/%E8%80%81%E5%90%B4%E5%A4%A7%E5%B8%88/avatar_hu_2a4b48e7b9d1abd1.jpg</url>
+      <url>https://ventilation616.github.io/author/%E8%80%81%E5%90%B4%E5%A4%A7%E5%B8%88/avatar_hu_2a4b48e7b9d1abd1.jpg</url>
       <title>老吴大师</title>
-      <link>http://localhost:1313/author/%E8%80%81%E5%90%B4%E5%A4%A7%E5%B8%88/</link>
+      <link>https://ventilation616.github.io/author/%E8%80%81%E5%90%B4%E5%A4%A7%E5%B8%88/</link>
     </image>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>最近在玩的游戲 | 龙家将</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ventilation616.github.io/post/</link>
+      <atom:link href="https://ventilation616.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>最近在玩的游戲</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e2df41383c32c8c9.png</url>
+      <url>https://ventilation616.github.io/media/icon_hu_e2df41383c32c8c9.png</url>
       <title>最近在玩的游戲</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://ventilation616.github.io/post/</link>
     </image>
     
     <item>
       <title>MineCraft Fantasy Realm</title>
-      <link>http://localhost:1313/post/20-12-02-icml-best-paper/</link>
+      <link>https://ventilation616.github.io/post/20-12-02-icml-best-paper/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20-12-02-icml-best-paper/</guid>
+      <guid>https://ventilation616.github.io/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;我的世界Fantasy Realm（幻想領域）整合包&lt;/p&gt;
 &lt;p&gt;Fantasy Realm是一个注重质量的RPG冒险和探索整合包！&lt;/p&gt;
 &lt;p&gt;整合包不需要Optifine：在视频设置中添加光影 &amp;gt; 光影包 &amp;gt; 添加你的光影。&lt;/p&gt;
@@ -66,9 +66,9 @@
     
     <item>
       <title>Pummel Party</title>
-      <link>http://localhost:1313/post/20-12-01-wowchemy-prize/</link>
+      <link>https://ventilation616.github.io/post/20-12-01-wowchemy-prize/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20-12-01-wowchemy-prize/</guid>
+      <guid>https://ventilation616.github.io/post/20-12-01-wowchemy-prize/</guid>
       <description>&lt;p&gt;《Pummel Party》是一款支持 4-8 位玩家的在线和本地多人派对游戏。Pummel 好友或 AI 可以在图板模式下使用各种各样荒唐爆笑的物品，在独特的迷你游戏合集中相互竞争，摧毁友谊。&lt;/p&gt;
 &lt;p&gt;在线和本地多人游戏
 随心所欲地游戏。《Pummel Party》允许 1 到 8 位玩家彼此竞争，既可以在线也可以在本地的同一块屏幕上。无论是在线还是当面，这款游戏都充满了友尽的乐趣。&lt;/p&gt;
