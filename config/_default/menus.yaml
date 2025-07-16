@@ -7,7 +7,7 @@ main:
   - name: 欢迎
     url: tour
     weight: 10
-  - name: 團建游戲
+  - name: 团建游戏
     url: post
     weight: 20
   - name: 群成员

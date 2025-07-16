@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>龙家将</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>龙家将</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_e2df41383c32c8c9.png</url>
+      <url>http://localhost:1313/media/icon_hu_e2df41383c32c8c9.png</url>
       <title>龙家将</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>三清山之旅</title>
-      <link>https://example.com/event/%E4%B8%89%E6%B8%85%E5%B1%B1%E4%B9%8B%E6%97%85/</link>
+      <link>http://localhost:1313/event/%E4%B8%89%E6%B8%85%E5%B1%B1%E4%B9%8B%E6%97%85/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/event/%E4%B8%89%E6%B8%85%E5%B1%B1%E4%B9%8B%E6%97%85/</guid>
+      <guid>http://localhost:1313/event/%E4%B8%89%E6%B8%85%E5%B1%B1%E4%B9%8B%E6%97%85/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>欢迎</title>
-      <link>https://example.com/tour/</link>
+      <link>http://localhost:1313/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tour/</guid>
+      <guid>http://localhost:1313/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>群成员</title>
-      <link>https://example.com/people/</link>
+      <link>http://localhost:1313/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/people/</guid>
+      <guid>http://localhost:1313/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MineCraft Fantasy Realm</title>
-      <link>https://example.com/post/20-12-02-icml-best-paper/</link>
+      <link>http://localhost:1313/post/20-12-02-icml-best-paper/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/20-12-02-icml-best-paper/</guid>
+      <guid>http://localhost:1313/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;我的世界Fantasy Realm（幻想領域）整合包&lt;/p&gt;
 &lt;p&gt;Fantasy Realm是一个注重质量的RPG冒险和探索整合包！&lt;/p&gt;
 &lt;p&gt;整合包不需要Optifine：在视频设置中添加光影 &amp;gt; 光影包 &amp;gt; 添加你的光影。&lt;/p&gt;
@@ -98,9 +98,9 @@
     
     <item>
       <title>Pummel Party</title>
-      <link>https://example.com/post/20-12-01-wowchemy-prize/</link>
+      <link>http://localhost:1313/post/20-12-01-wowchemy-prize/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/20-12-01-wowchemy-prize/</guid>
+      <guid>http://localhost:1313/post/20-12-01-wowchemy-prize/</guid>
       <description>&lt;p&gt;《Pummel Party》是一款支持 4-8 位玩家的在线和本地多人派对游戏。Pummel 好友或 AI 可以在图板模式下使用各种各样荒唐爆笑的物品，在独特的迷你游戏合集中相互竞争，摧毁友谊。&lt;/p&gt;
 &lt;p&gt;在线和本地多人游戏
 随心所欲地游戏。《Pummel Party》允许 1 到 8 位玩家彼此竞争，既可以在线也可以在本地的同一块屏幕上。无论是在线还是当面，这款游戏都充满了友尽的乐趣。&lt;/p&gt;
@@ -128,9 +128,9 @@
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>http://localhost:1313/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>http://localhost:1313/admin/config.yml</guid>
       <description></description>
     </item>
     

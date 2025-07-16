@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Q | 龙家将</title>
-    <link>https://example.com/author/q/</link>
-      <atom:link href="https://example.com/author/q/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/q/</link>
+      <atom:link href="http://localhost:1313/author/q/index.xml" rel="self" type="application/rss+xml" />
     <description>Q</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>https://example.com/author/q/avatar_hu_d35f62d0aa1b443d.jpg</url>
+      <url>http://localhost:1313/author/q/avatar_hu_d35f62d0aa1b443d.jpg</url>
       <title>Q</title>
-      <link>https://example.com/author/q/</link>
+      <link>http://localhost:1313/author/q/</link>
     </image>
     
   </channel>

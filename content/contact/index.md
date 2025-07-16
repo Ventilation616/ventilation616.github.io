@@ -19,7 +19,7 @@ sections:
         postcode: '330500'
         country: 中国
         country_code: CN
-      directions: 到学校门口了喊出“/tp InCl3”就能找到群主
+      directions: /tp InCl3
       office_hours:
         - 周一到周五下午五点之后
         - 周六到周日早上九点之后

@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 🥗炒倆菜環節🥗
-        content: '來格林郡参与人畜美食宴会'
+      - title: 🥗炒俩菜环节🥗
+        content: '来格林郡参与人畜美食宴会'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: 🍗吃吃吃順便逛逛世界🧳
-        content: '你還在等什麽！'
+      - title: 🍗吃吃吃顺便逛逛世界🧳
+        content: '你还在等什么！'
         align: right
         background:
           image:
@@ -41,7 +41,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: 加入我們
+          text: 加入我们
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')

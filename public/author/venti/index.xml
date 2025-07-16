@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Venti | 龙家将</title>
-    <link>https://example.com/author/venti/</link>
-      <atom:link href="https://example.com/author/venti/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/venti/</link>
+      <atom:link href="http://localhost:1313/author/venti/index.xml" rel="self" type="application/rss+xml" />
     <description>Venti</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>https://example.com/author/venti/avatar_hu_2293651c1fb4b85d.jpg</url>
+      <url>http://localhost:1313/author/venti/avatar_hu_2293651c1fb4b85d.jpg</url>
       <title>Venti</title>
-      <link>https://example.com/author/venti/</link>
+      <link>http://localhost:1313/author/venti/</link>
     </image>
     
   </channel>
