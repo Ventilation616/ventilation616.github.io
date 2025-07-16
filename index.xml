@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>龙家将</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>龙家将</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_e2df41383c32c8c9.png</url>
+      <title>龙家将</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>三清山之旅</title>
+      <link>http://localhost:1313/event/%E4%B8%89%E6%B8%85%E5%B1%B1%E4%B9%8B%E6%97%85/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/%E4%B8%89%E6%B8%85%E5%B1%B1%E4%B9%8B%E6%97%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>欢迎</title>
+      <link>http://localhost:1313/tour/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>群成员</title>
+      <link>http://localhost:1313/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MineCraft Fantasy Realm</title>
+      <link>http://localhost:1313/post/20-12-02-icml-best-paper/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;我的世界Fantasy Realm（幻想領域）整合包&lt;/p&gt;
+&lt;p&gt;Fantasy Realm是一个注重质量的RPG冒险和探索整合包！&lt;/p&gt;
+&lt;p&gt;整合包不需要Optifine：在视频设置中添加光影 &amp;gt; 光影包 &amp;gt; 添加你的光影。&lt;/p&gt;
+&lt;p&gt;特点&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;4个全新的维度和100+主世界中的全新生物群系。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;300+任务！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RPG属性[超过2×2合成]和使用Tetra的深度工具定制！大量新boss和小boss以及100+新生物。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;200+地下城和结构可供征服。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;通过完成挑战可定制背包。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;收集 12 个新的眼睛以进入重制后的末地！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新的大而丰富的洞穴，各种新的危险和探索！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;魔法模组，如禁忌与奥秘，幻梦等等！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;全面修改的GUI和自定义材质。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;旅行地图[按“M”打开]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用模拟殖民地建造一个繁华的幻想王国！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;200+ 模组。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;建议分配8GB内存。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pummel Party</title>
+      <link>http://localhost:1313/post/20-12-01-wowchemy-prize/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/20-12-01-wowchemy-prize/</guid>
+      <description>&lt;p&gt;《Pummel Party》是一款支持 4-8 位玩家的在线和本地多人派对游戏。Pummel 好友或 AI 可以在图板模式下使用各种各样荒唐爆笑的物品，在独特的迷你游戏合集中相互竞争，摧毁友谊。&lt;/p&gt;
+&lt;p&gt;在线和本地多人游戏
+随心所欲地游戏。《Pummel Party》允许 1 到 8 位玩家彼此竞争，既可以在线也可以在本地的同一块屏幕上。无论是在线还是当面，这款游戏都充满了友尽的乐趣。&lt;/p&gt;
+&lt;p&gt;图板模式&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;只能有一个赢家，你知道非你莫属！战斗通过危险的地形，获取和使用大量武器和物品，以确保战胜你的好友。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;物品&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;战争已经打响！使用一系列荒唐的武器和物品来夺取胜利。从简单的“拳套”到爆笑的“遥控茄子”，《Pummel Party》中的物品会带来许多搞笑和愤怒的时刻。要粉碎你朋友赢得胜利的愿望，从未如此简单、让人满意。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;迷你游戏&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;从简单的怀旧乐趣到独特而先进的《Pummel Party》，它包含许多激动人心的迷你游戏。在“雪山旋转”中，将你的好友打下深渊，在“沙里淘金”中进行三维挖掘以首先找到宝藏，并确保在“击鼓传弹”中当炸弹传到你手中时没有爆炸。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;迷你游戏模式&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;只想立即开玩？《Pummel Party》包含迷你游戏模式，让你可以直接开始游戏！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;机器人&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你和好友已经友尽，还是队伍中缺人？《Pummel Party》集成了完整的机器人功能，你仍然可以跟任意数量的真实玩家一起游玩或练习。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
